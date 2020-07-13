@@ -15,7 +15,7 @@ from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(x_train,y_train)
 
-#Predicting the model 
+#Plotting the graph
 y_pred=regressor.predict(x_test)
 plt.scatter(x_train,y_train,color = 'pink')
 plt.plot(x_train,regressor.predict(x_train))
@@ -32,6 +32,6 @@ plt.title("Experience vs salary {Test set}")
 plt.xlabel("Experience")
 plt.ylabel("Salary")
 plt.show()
-print(regressor.predict([[12]]))
+print(regressor.predict([[x]]))
 print(regressor.coef_)
 print(regressor.intercept_)
