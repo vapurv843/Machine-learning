@@ -28,5 +28,7 @@ We use read_csv.md method of pandas library to read the csv file as a dataframe.
 
 Then we make seperate vectors and matrix of dependent variable and independent variables from the dataframe.
 
+**Step3:** **Handling the missing data:**
+
 
 
