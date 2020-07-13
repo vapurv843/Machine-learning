@@ -1,2 +1,3 @@
 # Machine-learninng
-I will be adding implementation of different machine learning algorithms.
+Machine learning coding proposed by apurv verma.
+*Day 1*
