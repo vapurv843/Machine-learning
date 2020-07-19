@@ -55,7 +55,7 @@ For this purpose we import train_test_split() class from sklearn.model_selection
 
 **Step5:** **Feature scaling**
 
-Most of the machine learning algorithms use the Euclidean distance between two data points in their computation.
+Most of the machine learning algorithm use the Euclidean distance between two data points in their computation.
 
 We have features in the dataset havinng  different range and it can pose problem ,so it is required to bring all the feature in some definite range so that the performance of the model can be improved.
 
