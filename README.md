@@ -12,7 +12,7 @@ Data preprocessing:First step to get started with machhine learning.
 
 2.Pandas
 
-3.Matplotlib pyplot
+3.Matplotlib 
 
 These three are essential library each time.
 
