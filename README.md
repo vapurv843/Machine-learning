@@ -32,7 +32,7 @@ Then we make seperate vectors and matrix of dependent variable and independent v
 
 Data is rarely clean and often you can have corrupt or missing values.
 
-Missing data in the column is generally represented by nan.
+Missing data in the column is generally represented by NaN.
 
 Data can be missing due to various reasons and it is very important to take care of that as it may affect the performance of the model.
 
