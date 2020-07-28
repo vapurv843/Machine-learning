@@ -16,7 +16,7 @@ regressor = DecisionTreeRegressor(random_state = 0)
 regressor.fit(X, y)
 
 # Predicting a new result
-regressor.predict([[6.5]])
+regressor.predict([[]])
 
 # Visualising the Decision Tree Regression results (higher resolution)
 X_grid = np.arange(min(X), max(X), 0.01)
