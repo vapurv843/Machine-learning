@@ -22,7 +22,7 @@ Numpy is the library which contains all the Mathematical functions.
 
 **Step 2:** **Importing the data set**
 
-Data sets are generally availabe in .csv format.It contains data in tabular form.
+Data sets are generally availabe in .csv format. It contains data in tabular form.
 
 We use read_csv.md method of pandas library to read the csv file as a dataframe.
 
