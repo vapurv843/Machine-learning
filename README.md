@@ -1,5 +1,5 @@
 # Machine-learning
-Machine learning coding proposed by apurv verma.
+Machine learning coding proposed by Apurv verma.
 
 **Data preprocessing** : *Day 1*  
 
