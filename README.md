@@ -10,7 +10,7 @@ Data preprocessing:First step to get started with machhine learning.
 
 1.Numpy 
 
-2.Pandas
+2.Pandas as pd
 
 3.Matplotlib 
 
