@@ -8,7 +8,7 @@ Data preprocessing:First step to get started with machhine learning.
 
 **Step1:** **Importing the required libraries**
 
-1.Numpy
+1.Numpy as np
 
 2.Pandas
 
