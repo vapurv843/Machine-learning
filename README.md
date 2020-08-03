@@ -14,7 +14,7 @@ Data preprocessing:First step to get started with machhine learning.
 
 3.Matplotlib 
 
-These three  essential library each time.
+These three are essential library each time.
 
 Pandas is the library used to import datasets and managing them.
 
