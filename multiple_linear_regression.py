@@ -9,8 +9,8 @@ import pandas as pd
 dataset = pd.read_csv('50_Startups.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, -1].values
-x.describe()
-y.describe()
+print(x)
+print(y)
 
 # Encoding categorical data
 from sklearn.compose import ColumnTransformer
