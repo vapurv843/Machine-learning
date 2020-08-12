@@ -1,4 +1,4 @@
-# Data Preprocessing Template
+# Data Pre Template
 
 # Importing the libraries.
 import numpy as np
