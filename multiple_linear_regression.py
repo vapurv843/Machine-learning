@@ -1,4 +1,4 @@
-# Multiple Linear Regression
+# Multiple Linear Regress
 
 # Importing the libraries
 import numpy as np
