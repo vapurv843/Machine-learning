@@ -44,7 +44,7 @@ We use imputer class of sklearn.preprocessing module for this task.
 
 Categorical data are the variables that contain label values rather than numeric values.
 
-String values such as yes or no can not be used in the mathematiccal equations of the model so we need to encode these variables into numbers.To achieve this we use  LabelEncoder class from sklearn.preprocessing library.
+String values such as yes or no can not be used in the mathematical equations of the model so we need to encode these variables into numbers.To achieve this we use  LabelEncoder class from sklearn.preprocessing library.
 
 **Step4:** **Splitting the dataset into test set and training set**
 
@@ -57,7 +57,7 @@ For this purpose we import train_test_split() class from sklearn.model_selection
 
 Most of the machine learning algorithm use the Euclidean distance between two data points in their computation.
 
-We have features in the dataset havinng  different range and it can pose problem ,so it is required to bring all the feature in some definite range so that the performance of the model can be improved.
+We have features in the datasets having  different range and it can pose problem ,so it is required to bring all the feature in some definite range so that the performance of the model can be improved.
 
 For this StandardScaler class of sklearn.preprocessing module is used.
 
