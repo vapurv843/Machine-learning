@@ -42,9 +42,9 @@ We use imputer class of sklearn.preprocessing module for this task.
 
 **Step4:** **Encoding the categorical data**
 
-Categorical data are variables that contain label values rather than numeric values.
+Categorical data are the variables that contain label values rather than numeric values.
 
-Values such as yes or no can not be used in the mathematiccal equations of the model so we need to encode these variables into numbers.To achieve this we use  LabelEncoder class from sklearn.preprocessing library.
+String values such as yes or no can not be used in the mathematiccal equations of the model so we need to encode these variables into numbers.To achieve this we use  LabelEncoder class from sklearn.preprocessing library.
 
 **Step4:** **Splitting the dataset into test set and training set**
 
