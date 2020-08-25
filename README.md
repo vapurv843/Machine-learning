@@ -62,7 +62,7 @@ We have features in the datasets having  different range and it can pose problem
 For this StandardScaler class of sklearn.preprocessing module is used.
 
 
-**Generally,Scaling is preferred after splitting the data set into test set and training set.**
+**Generally,Scaling is preferred after splitting the data into test set and training set.**
 
 
 
