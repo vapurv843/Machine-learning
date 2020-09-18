@@ -1,6 +1,6 @@
-# Apriori
 
-# Run the following command in the terminal to install the apyori package: pip install apyori
+
+
 
 # Importing the libraries
 import numpy as np
